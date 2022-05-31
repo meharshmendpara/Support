@@ -3,6 +3,39 @@
 declare(strict_types=1);
 
 namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
+namespace Arcanedev\Support;
 
 /**
  * Class     Stub
